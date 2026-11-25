@@ -8,3 +8,5 @@ Tech Stack
 - CSS3: Responsive Flexbox layout and modern card-based styling.
 - JavaScript (ES6+): Event-driven DOM manipulation, arithmetic conversion logic, and template literals.
 
+ ![Unit Converter Screenshot](images/screenshot.png) 
+
